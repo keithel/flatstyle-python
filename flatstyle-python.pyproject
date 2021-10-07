@@ -1,0 +1,3 @@
+{
+    "files": ["flatstyle.qml","Flat/CheckBox.qml","main.cpp","Flat/Switch.qml","doc/images/qtquickcontrols2-flatstyle-creator.png","MainForm.ui.qml","doc/src/qtquickcontrols2-flatstyle.qdoc","qtquickcontrols2.conf","doc/images/qtquickcontrols2-flatstyle.png","flatstyle.pro","imports/Theme/qmldir","imports/Theme/Theme.qml","Flat/Button.qml","main.py"]
+}
